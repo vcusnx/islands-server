@@ -1,2 +1,7 @@
-# training-practice
-Client-server app written in Java, PostgreSQL.
+
+# College Study Practice
+
+> ### Used technologies:
+>
+> - `Java 20`
+> - `PostgreSQL 15`
