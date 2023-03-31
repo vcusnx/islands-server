@@ -1,4 +1,3 @@
-
 # College Study Practice
 
 > ### Used technologies:
