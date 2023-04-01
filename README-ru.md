@@ -1,5 +1,7 @@
 # Messenger
 
+### [Английский README](https://github.com/vcusnx/messenger/blob/main/README.md)
+
 ## **Используемые технологии:**
 >
 > - `Java 20`
