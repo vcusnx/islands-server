@@ -10,8 +10,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>vcusnx.client-server</groupId>
-    <artifactId>client-server-app</artifactId>
+    <groupId>vcusnx-team.messenger</groupId>
+    <artifactId>messenger</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
