@@ -1,6 +1,6 @@
 # Messenger
 
-### [Английский README](https://github.com/vcusnx/messenger/blob/main/README.md)
+### [Английский README](https://github.com/vcusnx/messenger/blob/master/README.md)
 
 ## **Используемые технологии:**
 >
