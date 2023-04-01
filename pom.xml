@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   ~ Copyright (c) Grigory "vcusnx" Markovich, 2023.
+  ~
+  ~ The Messenger Project.
   -->
 
 <project xmlns="http://maven.apache.org/POM/4.0.0"
