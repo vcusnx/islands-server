@@ -50,6 +50,6 @@
 > - At the first, user is `prompted` to `registration/log in`.
 > - After the `registration/logging` in user `can start conversation` with any person.
 > - To `start` the conversation user `must enter the another @username`.
-> - To `send` a message user must `type a text into specified field`, then click on the `sending button`.
-> - To `edit` message user must `select the message`, then click `“Edit”` and type new text.
-> - To `delete` message user must `select the message`, then click `“Delete”`.
+> - To `send` a message user `must type a text into specified field`, then click on the `sending button`.
+> - To `edit` message user `must select the message`, then click `“Edit”` and type new text.
+> - To `delete` message user `must select the message`, then click `“Delete”`.
