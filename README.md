@@ -23,7 +23,7 @@
 > - Processing input information;
 > - Working with Database;
 > - Logging action (starting, receiving messages restarting, shutting down, user’s registration, user’s logging in);
-> -Process user’s registration/logging in.
+> - Process user’s registration/logging in.
 
 ---
 
