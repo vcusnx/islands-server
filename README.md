@@ -2,7 +2,7 @@
 
 ### [Russian README](https://github.com/vcusnx/messenger/blob/main/README-ru.md)
 
-## **Tech stack:**
+## **Tech stack**
 >
 > - `Java 20`
 > - `Kotlin`
