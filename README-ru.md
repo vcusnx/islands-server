@@ -1,6 +1,6 @@
 # Messenger
 
-### [🇺🇸 README](https://github.com/vcusnx/messenger/blob/master/README.md)
+[🇺🇸 README](https://github.com/vcusnx/messenger/blob/master/README.md)
 
 ## **Используемые технологии:**
 > - `Kotlin`
