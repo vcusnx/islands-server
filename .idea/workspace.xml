@@ -4,31 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a2660bb-cdcd-4167-9a09-20421b528838" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/messenger.xml" beforeDir="false" />
+    <list default="true" id="1a2660bb-cdcd-4167-9a09-20421b528838" name="Changes" comment="Update Project">
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/client/Client.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/client/ClientManager.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/database/Database.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/database/DatabaseManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copyright/me.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/messenger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README-ru.md" beforeDir="false" afterPath="$PROJECT_DIR$/README-ru.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/client/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/client/ClientManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/database/Database.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/database/DatabaseManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/helpers/Constants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/message/Messages.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/message/MessagesManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/server/Server.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/server/ServerManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/client/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/client/ClientManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/database/Database.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/database/DatabaseManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/islands/messenger/app/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/islands/messenger/app/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/message/Messages.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/message/Messages.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/message/MessagesManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/message/MessagesManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/server/Server.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/server/Server.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/server/ServerManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/server/ServerManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/user/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/user/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-logic/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build-logic/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-logic/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build-logic/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-logic/src/main/kotlin/islands.messenger.kotlin-application-conventions.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build-logic/src/main/kotlin/islands.messenger.kotlin-application-conventions.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-logic/src/main/kotlin/islands.messenger.kotlin-common-conventions.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build-logic/src/main/kotlin/islands.messenger.kotlin-common-conventions.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-logic/src/main/kotlin/islands.messenger.kotlin-library-conventions.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build-logic/src/main/kotlin/islands.messenger.kotlin-library-conventions.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,14 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -62,6 +71,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OBR49nYP6UJpr0qaNp2WjeYxfW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -69,12 +81,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/Projects/Java/Islands Messenger",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -98,7 +111,26 @@
       <option name="presentableId" value="Default" />
       <updated>1679005416916</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update Project">
+      <created>1681034953002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681034953002</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update Project">
+      <created>1681035073499</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681035073499</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Project" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

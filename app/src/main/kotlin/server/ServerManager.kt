@@ -1,6 +1,8 @@
-// Copyright (c) Grigory "vcusnx" Markovich, 2023.
-//
-// The Messenger Project.
+/*
+ * Copyright (c) Grigory "vcusnx" Markovich, ISLANDS TEAM, 2023.
+ *
+ *
+ */
 
 package server
 

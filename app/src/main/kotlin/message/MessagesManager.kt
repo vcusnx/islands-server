@@ -1,5 +1,7 @@
 /*
- * Copyright (c) Grigory "vcusnx" Markovich, 2023.
+ * Copyright (c) Grigory "vcusnx" Markovich, ISLANDS TEAM, 2023.
+ *
+ *
  */
 
 package message

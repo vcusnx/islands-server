@@ -1,7 +1,7 @@
 <component name="CopyrightManager">
-  <settings>
+  <settings default="messenger">
     <module2copyright>
-      <element module="All" copyright="me" />
+      <element module="All" copyright="messenger" />
     </module2copyright>
   </settings>
 </component>
