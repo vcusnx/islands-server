@@ -1,10 +1,9 @@
 # Messenger
 
-### [Russian README](https://github.com/vcusnx/messenger/blob/main/README-ru.md)
+### [Russian README](https://github.com/vcusnx/messenger/blob/master/README-ru.md)
 
 ## **Tech stack**
 >
-> - `Java 20`
 > - `Kotlin`
 > - `PostgreSQL 15`
 
