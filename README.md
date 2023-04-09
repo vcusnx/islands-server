@@ -4,7 +4,6 @@
 
 ## **Tech stack**
 >
-> - `Java 20`
 > - `Kotlin`
 > - `PostgreSQL 15`
 
