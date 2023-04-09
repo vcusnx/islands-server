@@ -1,6 +1,6 @@
 # Messenger
 
-### [Russian README](https://github.com/vcusnx/messenger/blob/master/README-ru.md)
+### [🇷🇺 README](https://github.com/vcusnx/messenger/blob/master/README-ru.md)
 
 ## **Tech stack**
 >
