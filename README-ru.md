@@ -1,6 +1,6 @@
-# Islands Messenger
+# Messenger
 
-### [Английский README](https://github.com/vcusnx/messenger/blob/master/README.md)
+### [Английский README](https://github.com/vcusnx/messenger/blob/main/README.md)
 
 ## **Используемые технологии:**
 >
@@ -29,7 +29,7 @@
 
 ### **2. Клиентская часть**
 
-> **2.1 Функции клиента:**
+> **2.1 Функции клиента:**.
 >
 > - `Отправка` сообщений;
 > - `Получение` сообщений;
