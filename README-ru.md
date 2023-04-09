@@ -1,4 +1,4 @@
-# Messenger
+# Islands Messenger
 
 ### [Английский README](https://github.com/vcusnx/messenger/blob/master/README.md)
 
